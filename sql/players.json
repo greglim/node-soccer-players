@@ -1,0 +1,11 @@
+[{"id":1, "first_name":"Gregory", "last_name":"Ayca", "position":"Goalkeeper", "number":1, "image":"ggayca.png", "user_name":"ggayca"},
+ {"id":2, "first_name":"Benjamin", "last_name":"Radin", "position":"Centre Back", "number":2, "image":"benjamin.radin.png", "user_name":"benjamin.radin"},
+ {"id":3, "first_name":"Erick", "last_name":"Brockman", "position":"Centre Back", "number":3, "image":"eric.brockman.png", "user_name":"eric.brockman"},
+ {"id":4, "first_name":"Daniel", "last_name":"Lee", "position":"Right Back", "number":4, "image":"daniel.lee.png", "user_name":"daniel.lee"},
+ {"id":5, "first_name":"Gary", "last_name":"Wood", "position":"Left Back", "number":5, "image":"gary.wood.png", "user_name":"gary.wood"},
+ {"id":6, "first_name":"Dayle", "last_name":"Greenwood", "position":"Defensive Midfielder", "number":6, "image":"dayle.greenwood.png", "user_name":"dayle.greenwood"},
+ {"id":7, "first_name":"Chris", "last_name":"Lacy", "position":"Defensive Midfielder", "number":7, "image":"Chris.lacy.png", "user_name":"Chris.lacy"},
+ {"id":8, "first_name":"Martin", "last_name":"Schloesser", "position":"Attacking Midfielder", "number":8, "image":"martin.schloesser.png", "user_name":"martin.schloesser"},
+ {"id":9, "first_name":"Emilee", "last_name":"Larson", "position":"Striker", "number":9, "image":"emilee.larson.png", "user_name":"emilee.larson"},
+ {"id":10, "first_name":"Moksha", "last_name":"Sahu", "position":"Left Wing Forward", "number":10, "image":"moksha.sahu.png", "user_name":"moksha.sahu"},
+ {"id":11, "first_name":"Kyler", "last_name":"Cook", "position":"Right Wing Forward", "number":11, "image":"kyler.cook.png", "user_name":"kyler.cook"}]
